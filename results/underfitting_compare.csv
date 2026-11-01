@@ -1,0 +1,4 @@
+run,epochs,best_val_loss,best_epoch,val_acc_at_best,train_acc_at_best,val_loss_last,train_acc_last,val_acc_last
+A: 2 neurons,30,0.9266,30,0.6697,0.6703,0.9266,0.6703,0.6697
+B: 16 neurons,30,0.3781,11,0.8691,0.8878,0.4084,0.9076,0.8625
+C: 256 neurons,30,0.3414,4,0.8817,0.9093,0.6408,0.9789,0.8884

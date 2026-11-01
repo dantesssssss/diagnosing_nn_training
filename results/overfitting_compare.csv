@@ -1,0 +1,4 @@
+run,epochs,best_val_loss,best_epoch,val_acc_at_best,train_acc_at_best,val_loss_last,train_acc_last,val_acc_last
+A: no regularization,100,0.5526,3,0.8173,0.8875,1.0646,1.0,0.8425
+B: dropout 0.5,100,0.4832,20,0.8332,0.828,0.8452,0.966,0.835
+C: dropout 0.5 + early stop,30,0.4832,20,0.8332,0.828,0.5138,0.8855,0.8342
