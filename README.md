@@ -1,1 +1,1 @@
-[Full report (PDF)](report/Diagnosing_neural_network_training.pdf)
+[Full report (PDF)](Diagnosing%20neural%20network%20training.pdf)
