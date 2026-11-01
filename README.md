@@ -1,1 +1,1 @@
-# diagnosing_nn_training
+[Full report (PDF)](report/Diagnosing_neural_network_training.pdf)
